@@ -8,7 +8,7 @@
   "server": {
     "ip": "YuraPixel.aternos.me",
     "port": 44411,
-    "version": "1.21.9"
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
